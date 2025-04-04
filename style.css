@@ -1,0 +1,12 @@
+
+body{
+    arial,sans-serif;
+}   
+.container{
+    width:800px;
+    margin:40px;
+    padding:20px;
+    background-color:#ffe5b4;
+    border:1px;
+    text-align: center;
+}
